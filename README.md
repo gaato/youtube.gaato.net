@@ -1,9 +1,5 @@
 # youtube.gaato.net
 
-## Overview
-
-Welcome to the YouTube Gaato Redirect Service, a user-friendly solution designed to enhance the experience of X (formerly Twitter) users. This service allows you to share YouTube videos on X more effectively by generating dynamic Twitter Cards for each shared link.
-
 ## For X Users: Enhancing Your Sharing Experience
 
 - **Simple YouTube Video Sharing**: Share any YouTube video on X with enhanced visibility and engagement. Use `https://youtube.gaato.net/{videoID}` to share your favorite YouTube content.
